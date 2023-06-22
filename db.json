@@ -35,6 +35,42 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Cake",
+      "category": "Dessert",
+      "inCart": false,
+      "id": 7
+    },
+    {
+      "name": "Apples",
+      "category": "Produce",
+      "inCart": false,
+      "id": 9
+    },
+    {
+      "name": "Ice Pop",
+      "category": "Dessert",
+      "inCart": false,
+      "id": 10
+    },
+    {
+      "name": "Milk",
+      "category": "Dairy",
+      "inCart": false,
+      "id": 14
+    },
+    {
+      "name": "Orange",
+      "category": "Produce",
+      "inCart": false,
+      "id": 15
+    },
+    {
+      "name": "Kale",
+      "category": "Produce",
+      "inCart": false,
+      "id": 16
     }
   ]
 }
